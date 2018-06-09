@@ -6,10 +6,6 @@ from datetime import datetime
 import time
 import sys
 
-hello = 1
-
-hell = 2
-
 #GPS = sys.argv[1]
 GPS = "42.318156,-83.515020"
 
